@@ -1,1 +1,1 @@
-##Just some useful jupyter notebooks
+# Just some useful jupyter notebooks for those interested in quantitative analysis
