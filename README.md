@@ -1,1 +1,1 @@
-## Just some useful jupyter notebooks I made 
+Quantitative Finance Jupter Notebooks
